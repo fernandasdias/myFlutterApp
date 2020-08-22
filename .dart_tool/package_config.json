@@ -92,6 +92,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "pedantic",
+      "rootUri": "file:///Users/lafernandadias/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "petitparser",
       "rootUri": "file:///Users/lafernandadias/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-2.4.0",
       "packageUri": "lib/",
@@ -170,7 +176,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-08-17T23:39:56.481738Z",
+  "generated": "2020-08-22T02:43:03.869955Z",
   "generator": "pub",
   "generatorVersion": "2.8.4"
 }
